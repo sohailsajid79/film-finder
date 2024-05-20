@@ -1,6 +1,6 @@
 # Film Finder Project
 
-Film Finder is a simple gamified UI web application that allows users to search for movies by genre and get information about them. It is built using HTML, CSS, JavaScript and deployed on Netlify.
+Film Finder is a simple gamified UI & static web application that renders a random movie based on a genre selected by the user. It is built using HTML, CSS, JavaScript and deployed on Netlify.
 
 ## Features
 
